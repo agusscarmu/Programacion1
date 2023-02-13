@@ -1,0 +1,238 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ejerciciopracticaarreglos",
+            "request": "launch",
+            "mainClass": "ejerciciopracticaarreglos",
+            "projectName": "1_c80c906d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ordenamiento3",
+            "request": "launch",
+            "mainClass": "ordenamiento3",
+            "projectName": "1_c80c906d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ordenamiento2",
+            "request": "launch",
+            "mainClass": "ordenamiento2",
+            "projectName": "1_c80c906d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ordenamiento",
+            "request": "launch",
+            "mainClass": "ordenamiento",
+            "projectName": "1_c80c906d"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibonacci",
+            "request": "launch",
+            "mainClass": "fibonacci",
+            "projectName": "1_c80c906d"
+        },
+        {
+            "type": "java",
+            "name": "Launch parcialarreglos",
+            "request": "launch",
+            "mainClass": "parcialarreglos",
+            "projectName": "1_c80c906d"
+        },
+        {
+            "type": "java",
+            "name": "Launch matrices14",
+            "request": "launch",
+            "mainClass": "matrices14",
+            "projectName": "1_c80c906d"
+        },
+        {
+            "type": "java",
+            "name": "Launch intentoescrito",
+            "request": "launch",
+            "mainClass": "intentoescrito",
+            "projectName": "1_c80c906d"
+        },
+        {
+            "type": "java",
+            "name": "Launch matrices13",
+            "request": "launch",
+            "mainClass": "matrices13",
+            "projectName": "1_c80c906d"
+        },
+        {
+            "type": "java",
+            "name": "Launch matrices12",
+            "request": "launch",
+            "mainClass": "matrices12",
+            "projectName": "1_c80c906d"
+        },
+        {
+            "type": "java",
+            "name": "Launch matrices11",
+            "request": "launch",
+            "mainClass": "matrices11",
+            "projectName": "1_c80c906d"
+        },
+        {
+            "type": "java",
+            "name": "Launch matrices10",
+            "request": "launch",
+            "mainClass": "matrices10",
+            "projectName": "1_c80c906d"
+        },
+        {
+            "type": "java",
+            "name": "Launch matrices9",
+            "request": "launch",
+            "mainClass": "matrices9",
+            "projectName": "1_c80c906d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch matrices1",
+            "request": "launch",
+            "mainClass": "matrices1",
+            "projectName": "1_c80c906d"
+        },
+        {
+            "type": "java",
+            "name": "Launch matrices2",
+            "request": "launch",
+            "mainClass": "matrices2",
+            "projectName": "1_c80c906d"
+        },
+        {
+            "type": "java",
+            "name": "Launch matrices3",
+            "request": "launch",
+            "mainClass": "matrices3",
+            "projectName": "1_c80c906d"
+        },
+        {
+            "type": "java",
+            "name": "Launch matrices4",
+            "request": "launch",
+            "mainClass": "matrices4",
+            "projectName": "1_c80c906d"
+        },
+        {
+            "type": "java",
+            "name": "Launch matrices5",
+            "request": "launch",
+            "mainClass": "matrices5",
+            "projectName": "1_c80c906d"
+        },
+        {
+            "type": "java",
+            "name": "Launch matrices6",
+            "request": "launch",
+            "mainClass": "matrices6",
+            "projectName": "1_c80c906d"
+        },
+        {
+            "type": "java",
+            "name": "Launch matrices7",
+            "request": "launch",
+            "mainClass": "matrices7",
+            "projectName": "1_c80c906d"
+        },
+        {
+            "type": "java",
+            "name": "Launch matrices8",
+            "request": "launch",
+            "mainClass": "matrices8",
+            "projectName": "1_c80c906d"
+        },
+        {
+            "type": "java",
+            "name": "Launch tp1",
+            "request": "launch",
+            "mainClass": "tp1",
+            "projectName": "1_c80c906d"
+        },
+        {
+            "type": "java",
+            "name": "Launch tp10",
+            "request": "launch",
+            "mainClass": "tp10",
+            "projectName": "1_c80c906d"
+        },
+        {
+            "type": "java",
+            "name": "Launch tp2",
+            "request": "launch",
+            "mainClass": "tp2",
+            "projectName": "1_c80c906d"
+        },
+        {
+            "type": "java",
+            "name": "Launch tp3",
+            "request": "launch",
+            "mainClass": "tp3",
+            "projectName": "1_c80c906d"
+        },
+        {
+            "type": "java",
+            "name": "Launch tp4",
+            "request": "launch",
+            "mainClass": "tp4",
+            "projectName": "1_c80c906d"
+        },
+        {
+            "type": "java",
+            "name": "Launch tp5",
+            "request": "launch",
+            "mainClass": "tp5",
+            "projectName": "1_c80c906d"
+        },
+        {
+            "type": "java",
+            "name": "Launch tp6",
+            "request": "launch",
+            "mainClass": "tp6",
+            "projectName": "1_c80c906d"
+        },
+        {
+            "type": "java",
+            "name": "Launch tp7",
+            "request": "launch",
+            "mainClass": "tp7",
+            "projectName": "1_c80c906d"
+        },
+        {
+            "type": "java",
+            "name": "Launch tp8",
+            "request": "launch",
+            "mainClass": "tp8",
+            "projectName": "1_c80c906d"
+        },
+        {
+            "type": "java",
+            "name": "Launch tp9",
+            "request": "launch",
+            "mainClass": "tp9",
+            "projectName": "1_c80c906d"
+        },
+        {
+            "type": "java",
+            "name": "Launch tpinventado",
+            "request": "launch",
+            "mainClass": "tpinventado",
+            "projectName": "1_c80c906d"
+        }
+    ]
+}
