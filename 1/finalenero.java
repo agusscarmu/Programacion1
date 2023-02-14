@@ -68,10 +68,22 @@ import java.util.Random;
         }else{
             arr=matriz[poscol];
         }
-        
+        acomodar_arreglo(arr);
         imprimir(arr);
     }
 
+    public static void acomodar_arreglo(int[]arr){
+        int aux;
+        for(int x=0;x<MAX;x++){
+            for(int i=0;i<MAX-1;i++){
+                if(arr[i]<arr[i+1]){
+                    aux=arr[i];
+                    arr[i]=arr[i+1];
+                    arr[i+1]=aux;
+                }
+            }
+        }
+    }
     public static void imprimir(int[]arr){
         for(int i=0;i<MAX;i++){
             System.out.println(arr[i]);
