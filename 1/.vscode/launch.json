@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch parcialArreglo",
+            "request": "launch",
+            "mainClass": "parcialArreglo",
+            "projectName": "1_f90b99f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch finalSecuenciasAArreglo",
+            "request": "launch",
+            "mainClass": "finalSecuenciasAArreglo",
+            "projectName": "1_f90b99f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch finalenerodos",
+            "request": "launch",
+            "mainClass": "finalenerodos",
+            "projectName": "1_f90b99f1"
+        },
+        {
+            "type": "java",
             "name": "Launch ejerciciopracticaarreglos",
             "request": "launch",
             "mainClass": "ejerciciopracticaarreglos",
