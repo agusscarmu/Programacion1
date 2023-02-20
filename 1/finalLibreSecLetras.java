@@ -52,6 +52,15 @@ public class finalLibreSecLetras {
                     if(primerLetra<letraAnterior){
                         mover_secuencia(AR,i,pos,posant);
                         posant=nueva_pos_ant(AR, i);
+                    }else if(i>0 && primerLetra==letraAnterior){
+                        int k=0;
+                        while(AR[posant+k]!=' ' && AR[pos+k]!=' '){
+                            k++;
+                            if(AR[pos+k]<AR[posant+k]){
+                                mover_secuencia(AR,i,pos,posant);
+                                break;
+                            }
+                        }
                     }else{
                         letraAnterior=primerLetra;
                         posant=pos;
@@ -80,7 +89,7 @@ public class finalLibreSecLetras {
         
     }
     public static void cargar_matriz(char[][]mat){
-        String caracteres = "aeiou ";
+        String caracteres = "aaabbbccc ";
         Random r = new Random();
         for(char fil=0;fil<N;fil++){
             for(char col=0;col<M;col++){
