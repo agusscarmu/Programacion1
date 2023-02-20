@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Matriz",
+            "request": "launch",
+            "mainClass": "Matriz",
+            "projectName": "1_f90b99f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch finalLibreSecLetras",
+            "request": "launch",
+            "mainClass": "finalLibreSecLetras",
+            "projectName": "1_f90b99f1"
+        },
+        {
+            "type": "java",
             "name": "Launch parcialArreglo",
             "request": "launch",
             "mainClass": "parcialArreglo",
