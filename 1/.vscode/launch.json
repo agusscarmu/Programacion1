@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch pru",
+            "request": "launch",
+            "mainClass": "pru",
+            "projectName": "1_f90b99f1"
+        },
+        {
+            "type": "java",
             "name": "Launch Matriz",
             "request": "launch",
             "mainClass": "Matriz",
