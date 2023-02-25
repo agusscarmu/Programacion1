@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch parcialArreglodos",
+            "request": "launch",
+            "mainClass": "parcialArreglodos",
+            "projectName": "1_f90b99f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ordenamientoMat",
+            "request": "launch",
+            "mainClass": "ordenamientoMat",
+            "projectName": "1_f90b99f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ejercicioLogica",
+            "request": "launch",
+            "mainClass": "ejercicioLogica",
+            "projectName": "1_f90b99f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch finalSecLetras",
+            "request": "launch",
+            "mainClass": "finalSecLetras",
+            "projectName": "1_f90b99f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch finalLibreN",
+            "request": "launch",
+            "mainClass": "finalLibreN",
+            "projectName": "1_f90b99f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch MetodosDeOrdenamiento",
+            "request": "launch",
+            "mainClass": "MetodosDeOrdenamiento",
+            "projectName": "1_f90b99f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch finalSecuenciastres",
+            "request": "launch",
+            "mainClass": "finalSecuenciastres",
+            "projectName": "1_f90b99f1"
+        },
+        {
+            "type": "java",
             "name": "Launch pru",
             "request": "launch",
             "mainClass": "pru",

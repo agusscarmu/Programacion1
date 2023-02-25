@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Random;
 
-public class pru {
+public class MetodosDeOrdenamiento {
     final static int M=10;
 
     public static void main(String[]args){
