@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch finalSecuenciasReemplazo",
+            "request": "launch",
+            "mainClass": "finalSecuenciasReemplazo",
+            "projectName": "1_f90b99f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch matrices13",
+            "request": "launch",
+            "mainClass": "matrices13",
+            "projectName": "1_f90b99f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch matrices14",
+            "request": "launch",
+            "mainClass": "matrices14",
+            "projectName": "1_f90b99f1"
+        },
+        {
+            "type": "java",
             "name": "Launch parcialArreglodos",
             "request": "launch",
             "mainClass": "parcialArreglodos",

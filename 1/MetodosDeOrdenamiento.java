@@ -7,12 +7,13 @@ public class MetodosDeOrdenamiento {
     public static void main(String[]args){
         int[]ar=new int[M];
         cargar(ar);
-        System.out.println(Arrays.toString(ar));
+        // System.out.println(Arrays.toString(ar));
 
         // ordenamientoPorSeleccion(ar);
         // ordenamientoBurbuja(ar);
-        ordenamientoPorInsercion(ar);
-        System.out.println(Arrays.toString(ar));
+    
+        // ordenamientoPorInsercion(ar);
+        // System.out.println(Arrays.toString(ar));
     }
     public static void ordenamientoPorSeleccion(int[]a){
         int aux;

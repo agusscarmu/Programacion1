@@ -25,12 +25,14 @@ public class finalLibreN {
             {' ','#','#','#',' ',' ',' ',' ',' ',' '},
             {' ',' ',' ','#','#','#','#',' ',' ',' '},
         };
-        cargar_matriz(MATA);
-        imprimir_matriz(MATA);
-        // Ejercicio 2 mal hecho.
-        // ejecutarEjercicioDos(MATA,MATB);
-        System.out.println("\n");
-        imprimir_matriz(MATA);
+        MATB[3]=MATB[4];
+        imprimir_matriz(MATB);
+        // cargar_matriz(MATA);
+        // imprimir_matriz(MATA);
+        // // Ejercicio 2 mal hecho.
+        // // ejecutarEjercicioDos(MATA,MATB);
+        // System.out.println("\n");
+        // imprimir_matriz(MATA);
     }
     public static void ejecutarEjercicioDos(char[][]mat,char[][]MATB){
         int inicio=0;
